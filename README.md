@@ -21,9 +21,7 @@ Programando marjoritariamente em Python, também especialista em banco de Dados,
 
 Recentemente, me deparei programando em Go, linguagem que mais cresce no mundo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerocha1&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerocha1_weight=0.5&count_weight=0.5)
-
-<h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerocha1&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerocha1&size_weight=0.5&count_weight=0.5)
     <a href='https://www.github.com/lerocha1'>
     <img align="center" width="60px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg"> </a>
     <a href='https://www.linkedin.com/in/leandro-rocha-62694730/'>
