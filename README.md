@@ -1,11 +1,11 @@
 
 
-# 🚀 Leandro Rocha
+# 🚀 Leandro Rocha - Update
 Pai, ciclista e apaixonado por Tecnologia, atuo como Gerente multidisciplinar em uma empresa de engenharia e que nas horas vagas "gasto" meu tempo com programação e desafios na internet.
 
-Programando marjoritariamente em Python, também especialista em banco de Dados, Analise de dados/Big Data e programador FullStack.
+Programando em Python, Typescript, Delphi7 (onde chegamos), PHP, Go.......
 
-Recentemente, me deparei programando em Go, linguagem que mais cresce no mundo.
+Gerente de P&D, responsável por sustentação e Inovação!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerocha1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerocha1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
