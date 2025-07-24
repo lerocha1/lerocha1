@@ -3,7 +3,7 @@
 # 🚀 Leandro Rocha - Update
 Pai, ciclista e apaixonado por Tecnologia, atuo como Gerente multidisciplinar em uma empresa de engenharia e que nas horas vagas "gasto" meu tempo com programação e desafios na internet.
 
-Programando em Python, Typescript, Delphi7 (onde chegamos), PHP, Go.......
+Programando em Python, Typescript, Delphi7 (onde chegamos), PHP, Go........
 
 Gerente de P&D, responsável por sustentação e Inovação!
 
